@@ -1,6 +1,6 @@
 # 100 Homens vs 1 Gorila - Minijogo de Navegador
 
-(![image](https://github.com/user-attachments/assets/e5c3a5ac-8151-42cb-8581-acc9beb58edb)
+![image](https://github.com/user-attachments/assets/e5c3a5ac-8151-42cb-8581-acc9beb58edb)
 
 Um minijogo de navegador simples onde 100 homens enfrentam um gorila em um combate estratégico. Gerencie sua stamina e saúde para derrotar o gorila antes que ele acabe com todos os homens!
 
