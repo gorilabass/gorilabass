@@ -2,7 +2,9 @@
 
 # 🕹️ 100 Homens vs 1 Gorila - Minijogo de Navegador
 
+<div align="center">
 ![image](https://github.com/user-attachments/assets/e5c3a5ac-8151-42cb-8581-acc9beb58edb)
+</div>
 
 Um minijogo de navegador simples onde 100 homens enfrentam um gorila em um combate estratégico. Gerencie sua stamina e saúde para derrotar o gorila antes que ele acabe com todos os homens!
 
@@ -67,8 +69,14 @@ Contribuições são bem-vindas! Siga os passos:
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## ✉️ Contato
+<div align="center">
+  <a href="https://www.linkedin.com/in/richard-freitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/rickk1st/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.github.com/vlonerickk/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:richard.rcket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
-Richard Freitas - [@richard-freirtas](https://linkedin.com/in/richard-freitas - richard.rcket@gmail.com
+##
 
 Link do Projeto: [https://github.com/vlonerickk/gorilabass](https://github.com/vlonerickk/gorilabass)
 
