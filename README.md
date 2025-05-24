@@ -1,4 +1,4 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=03896c&height=120&section=header' width='100%'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=245e16&height=120&section=header' width='100%'/>
 
 # 🕹️ 100 Homens vs 1 Gorila - Minijogo de Navegador
 
@@ -83,4 +83,4 @@ Link do Projeto: [https://github.com/vlonerickk/gorilabass](https://github.com/v
 
 **Divirta-se jogando!** 🎮
 
-<img src='https://capsule-render.vercel.app/api?type=waving&color=03896c&height=120&section=header' width='100%'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=245e16&height=120&section=header' width='100%'/>
