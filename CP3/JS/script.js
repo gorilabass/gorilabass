@@ -130,4 +130,15 @@ btnDefend.onclick = () => turno(() => game.defend());
 btnRest.onclick = () => turno(() => game.rest());
 btnRestart.onclick = start;
 
+document.addEventListener("DOMContentLoaded", () => {
+  const btnAtacar = document.getElementById("btn-attack");
+  const somAtaque = document.getElementById("som-ataque");
+
+  btnAtacar.addEventListener("click", () => {
+    somAtaque.currentTime = 0; // reinicia o som se já estiver tocando
+    somAtaque.play();
+  });
+});
+
+
 window.onload = start;
