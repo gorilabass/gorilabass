@@ -69,7 +69,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## ✉️ Contato
 
-### 🙅‍♂️ Richard Freitas
+### 🙅‍♂️ Richard Freitas RM- 566127
 <div align="left">
   <a href="https://www.linkedin.com/in/richard-freitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/rickk1st/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -79,7 +79,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ##
 
-### 🙅‍♀️ Laura Lopes
+### 🙅‍♀️ Laura Lopes RM-566376
 
 <div align="left">
   <a href="https://www.linkedin.com/in/laura-lopes-a5937a353/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -90,7 +90,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ##
 
-### 🙅‍♂️ Maicon Douglas
+### 🙅‍♂️ Maicon Douglas RM - 561279
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maicon-douglas-b244571b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -101,7 +101,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ##
 
-### 🙅‍♀️ Samara Vilela
+### 🙅‍♀️ Samara Vilela RM - 566133
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samara-vilela/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
