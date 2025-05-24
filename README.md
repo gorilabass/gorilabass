@@ -68,7 +68,9 @@ Contribuições são bem-vindas! Siga os passos:
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## ✉️ Contato
-<div align="center">
+
+### 🙅‍♂️ Richard Freitas
+<div align="left">
   <a href="https://www.linkedin.com/in/richard-freitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/rickk1st/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.github.com/vlonerickk/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -77,7 +79,40 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ##
 
-Link do Projeto: [https://github.com/vlonerickk/gorilabass](https://github.com/vlonerickk/gorilabass)
+### 🙅‍♀️ Laura Lopes
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/laura-lopes-a5937a353/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/lauralopes.cruz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.github.com/laura853/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:lauralopess2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+##
+
+### 🙅‍♂️ Maicon Douglas
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/maicon-douglas-b244571b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/_maicon.dougllas_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.github.com/maicondouglas-dev/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:maicon.timot9@gmail.comimg src="><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+##
+
+### 🙅‍♀️ Samara Vilela
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/samara-vilela/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/lauralopes.cruz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.github.com/sam28vil/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:samara.vilela.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+##
+
+Link do Projeto: [Github](https://github.com/gorilabass/gorilabass)
 
 ---
 
